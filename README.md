@@ -222,8 +222,6 @@ This project includes 14 professional visualizations:
 AI & Data Science Intern
 Horizon TechX
 
-📧 [vkanapal@gitam.edu](mailto:vkanapal@gitam.edu)
-
 ---
 
 ⭐ If you found this project helpful, please consider giving it a star!
